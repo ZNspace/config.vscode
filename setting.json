@@ -1,0 +1,81 @@
+{
+  "git.confirmSync": false,
+  "git.autofetch": true,
+  "git.enableSmartCommit": true,
+  "files.autoSave": "afterDelay",
+  "terminal.external.osxExec": "iTerm2.app",
+  "terminal.integrated.cursorStyle": "line",
+  "window.zoomLevel": 0,
+  "editor.tabSize": 2,
+  "editor.formatOnType": true,
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "javascript.format.enable": false,
+  "editor.quickSuggestions": {
+    "strings": true
+  },
+  "editor.snippetSuggestions": "top",
+  "python.formatting.provider": "yapf",
+  "[vue]": {},
+  "sync.gist": "a42a29a34396b32a35ae88ca5fb8d881",
+  "sync.autoDownload": true,
+  "sync.autoUpload": true,
+  "sync.forceDownload": false,
+  "sync.quietSync": false,
+  "sync.askGistName": false,
+  "sync.removeExtensions": false,
+  "sync.syncExtensions": true,
+  "workbench.iconTheme": "material-icon-theme",
+  "prettier.disableLanguages": ["vue"],
+  "prettier.eslintIntegration": true,
+  "prettier.singleQuote": true,
+  "prettier.jsxBracketSameLine": true,
+  "prettier.trailingComma": "es5",
+  "extensions.ignoreRecommendations": true,
+  "emmet.syntaxProfiles": {
+    "vue-html": "html",
+    "vue": "html"
+  },
+  "vetur.format.defaultFormatter.html": "js-beautify-html",
+  "eslint.autoFixOnSave": true,
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "html",
+    "vue",
+    {
+      "language": "html",
+      "autoFix": true
+    },
+    {
+      "language": "vue",
+      "autoFix": true
+    }
+  ],
+  "eslint.packageManager": "yarn",
+  "editor.renderIndentGuides": false,
+  "diffEditor.ignoreTrimWhitespace": false,
+  "emmet.includeLanguages": {
+    "vue-html": "html",
+    "javascript": "javascriptreact"
+  },
+  "emmet.showSuggestionsAsSnippets": true,
+  "explorer.confirmDelete": false,
+  "javascript.implicitProjectConfig.experimentalDecorators": true,
+  "files.associations": {
+    "*.styl": "postcss",
+    "deploy": "shellscript"
+  },
+  "[javascriptreact]": {},
+  "fileheader.Author": "ZhouNan",
+  "fileheader.LastModifiedBy": "ZhouNan",
+  "eslint.alwaysShowStatus": true,
+  "eslint._legacyModuleResolve": false,
+  "terminal.integrated.copyOnSelection": true,
+  "workbench.colorTheme": "Material Theme High Contrast",
+  "workbench.statusBar.visible": true,
+  "workbench.activityBar.visible": true,
+  "terminal.integrated.rendererType": "dom",
+  "javascript.updateImportsOnFileMove.enabled": "never",
+  "javascript.validate.enable": false
+}
